@@ -12,6 +12,8 @@ Pre-built static export of the Zenpho marketing site for hosting on **Cloudflare
    - **Build output directory:** `/` (repository root)
 4. Deploy and attach your domain (`zenpho.com`, `www.zenpho.com`)
 
+If a deploy fails on an old commit, use **Deployments → Create deployment → `main`** (latest), not **Retry** on the failed build.
+
 ## Included
 
 - Marketing pages (home, about, services, solutions, blog, pricing, contact, landing pages, etc.)
