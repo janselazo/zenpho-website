@@ -1,0 +1,19 @@
+# Cloudflare Pages — pretty URLs for directory-based static export
+/about /about/index.html 200
+/services /services/index.html 200
+/services/* /services/:splat/index.html 200
+/solutions/* /solutions/:splat/index.html 200
+/platform/* /platform/:splat/index.html 200
+/industries/* /industries/:splat/index.html 200
+/product/* /product/:splat/index.html 200
+/blog/* /blog/:splat/index.html 200
+/lp/* /lp/:splat/index.html 200
+/lp-es/* /lp-es/:splat/index.html 200
+/booking /booking/index.html 200
+/contact /contact/index.html 200
+/pricing /pricing/index.html 200
+/studio /studio/index.html 200
+/case-studies /case-studies/index.html 200
+/resources /resources/index.html 200
+/privacy /privacy/index.html 200
+/terms /terms/index.html 200
