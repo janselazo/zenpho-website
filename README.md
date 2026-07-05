@@ -23,7 +23,7 @@ If a deploy fails on an old commit, use **Deployments → Create deployment → 
 ## Not included
 
 - Revenue Leak Audit and Branding tools (server/API required; preserved in the main app backup)
-- Working contact/booking form submissions (display only; no backend)
+- Booking calendar (contact form uses [Web3Forms](https://web3forms.com) for email delivery on static hosting)
 
 ## Source
 
